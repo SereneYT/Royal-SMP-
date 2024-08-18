@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Royal SMP Minecraft Server</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Royal SMP Minecraft Server</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#info">Server Info</a></li>
+                <li><a href="#community">Community</a></li>
+                <li><a href="#media">Media</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="home">
+        <h2>Welcome to Royal SMP</h2>
+        <p>Join us for a unique Minecraft experience!</p>
+    </section>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Royal SMP is a Minecraft server where 7 players survive and live peacefully together.</p>
+        <h3>Members</h3>
+        <ul>
+            <li>SereneYT</li>
+            <li>Cold_Aarav</li>
+            <li>God_X_Abiral</li>
+            <li>tlogefun69</li>
+            <li>Massuxpro</li>
+            <li>sansku</li>
+            <li>AmoghRPYT</li>
+        </ul>
+    </section>
+    <section id="info">
+        <h2>Server Information</h2>
+        <p>IP: Royals3.aternos.me:21008</p>
+        <p>Version: 1.20.1</p>
+        <p>Mods: List any mods here</p>
+    </section>
+    <section id="community">
+        <h2>Community</h2>
+        <p>Connect with other players on our forum.</p>
+    </section>
+    <section id="media">
+        <h2>Media Gallery</h2>
+        <p>Check out our screenshots and videos.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Discord: SereneStriker_ </p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Royal SMP Minecraft Server. All rights reserved.</p>
+    </footer>
+</body>
+</html>
